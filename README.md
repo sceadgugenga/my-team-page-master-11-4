@@ -57,5 +57,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/sceadgugenga)
+- GitHub [@sceadgugenga](https://github.com/sceadgugenga)
 
